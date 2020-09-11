@@ -1,0 +1,3 @@
+yolo/model/*.pth
+**/__pycache__
+/test_data/
